@@ -22,5 +22,4 @@ This is an app presentation website for Nord mobile application created with HTM
 * PSD Template is from [Graphberry](https://www.graphberry.com)
 * Fonts are from [Google Fonts](https://fonts.google.com)
 * Images are from [Unsplash](https://unsplash.com)
-* Font Icons are from [Font Awesome](https://fontawesome.com)
 * Mockups are from [Smart Mockups](https://smartmockups.com)
