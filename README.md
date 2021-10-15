@@ -5,7 +5,7 @@ This is an app presentation website for Nord mobile application created with HTM
 ![design-view](./Images/design-view.png)
 
 ## Live Demo
-👁 [Click here](#) to check out the live demo!
+👁 [Click here](https://mohammad-jarabah.github.io/Nord-Mobile-Application) to check out the live demo!
 
 ## Technologies Used
 * ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
