@@ -1,6 +1,8 @@
 # Nord Mobile Application
 This is an app presentation website for Nord mobile application created with HTML and CSS.
 
+**Note:** This website is created for practicing on the front-end.
+
 ## Design View
 ![design-view](./Images/design-view.png)
 
