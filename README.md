@@ -1,4 +1,4 @@
-# Nord Mobile Application
+# Nord Mobile Application's Website
 This is an app presentation website for Nord mobile application created with HTML and CSS.
 
 **Note:** This website is created for practicing on the front-end.
