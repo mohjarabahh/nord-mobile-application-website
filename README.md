@@ -1,4 +1,5 @@
-# Nord Mobile Application's Website
+<h1 align='center'>Nord Mobile Application's Website</h1>
+
 A presentation website for Nord mobile application created with HTML and CSS!
 
 **Note:** This website is created for practicing on the front-end.
