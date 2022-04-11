@@ -15,10 +15,13 @@ A presentation website for Nord mobile application created with HTML and CSS!
 * ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Features
+* ⭐ Single page design
 * 🤖 Responsive design on all devices
 * ⚡ Fast and lightweight design
 * 📱 Simple mobile animation at the header section
 * 🌐 Sections for Header, About, Quote, and Join us
+* 🎨 SVG logo
+* 🌱 Smooth scroll for navigation bar links
 * ✨ And more!
 
 ## Credits
