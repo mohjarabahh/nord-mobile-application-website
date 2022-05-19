@@ -1,4 +1,4 @@
-<h1 align='center'>Nord Mobile Application's Website</h1>
+<h1 align='center'>Nord Mobile Application Website</h1>
 
 A presentation website for Nord mobile application created with HTML and CSS!
 
