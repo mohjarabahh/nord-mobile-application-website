@@ -16,6 +16,7 @@ A presentation website for Nord mobile application created with HTML and CSS!
 
 ## Features
 * ⭐ Single page design
+* 👓 Elegant favicon
 * 🤖 Responsive design on all devices
 * ⚡ Fast and lightweight design
 * 📱 Simple mobile animation at the header section
