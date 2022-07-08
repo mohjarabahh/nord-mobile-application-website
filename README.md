@@ -2,7 +2,7 @@
 
 A presentation website for Nord mobile application created with HTML and CSS!
 
-**Note:** This website is created for practicing on the front-end.
+**Note:** In this project, I turned the Photoshop design (PSD template) into a website as practicing on front-end technologies.
 
 ## Design View
 ![design-view](./Images/design-view.png)
