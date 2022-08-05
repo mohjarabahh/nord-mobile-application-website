@@ -11,8 +11,8 @@ A presentation website for Nord mobile application created with HTML and CSS!
 👁 [Click here](https://mohammadjarabah.github.io/nord-mobile-application-website) to check out the live demo!
 
 ## Technologies Used
-* <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML' valign='middle'>
-* <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS' valign='middle'>
+* <img src='./Images/readme-badges/html.svg' alt='HTML' valign='middle'>
+* <img src='./Images/readme-badges/css.svg' alt='CSS' valign='middle'>
 
 ## Features
 * ⭐ Single page design
@@ -30,3 +30,4 @@ A presentation website for Nord mobile application created with HTML and CSS!
 * Fonts are from [Google Fonts](https://fonts.google.com)
 * Images are from [Unsplash](https://unsplash.com)
 * Mockups are from [Smart Mockups](https://smartmockups.com)
+* README Badges are from [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
