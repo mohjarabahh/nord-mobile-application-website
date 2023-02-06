@@ -23,7 +23,6 @@ A presentation website for Nord mobile application created with HTML and CSS!
 * 🌐 Sections for Header, About, Quote, and Join us
 * 🎨 SVG logo
 * 🌱 Smooth scroll for navigation bar links
-* 🌠 Optimized images
 * ✨ And more!
 
 ## Credits
