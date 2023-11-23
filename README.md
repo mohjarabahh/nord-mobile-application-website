@@ -8,7 +8,7 @@ A presentation website for Nord mobile application created with HTML and CSS!
 ![design-view](./Images/design-view.png)
 
 ## Live Demo
-👁 [Click here](https://mohammadjarabah.github.io/nord-mobile-application-website) to check out the live demo!
+👁 [Click here](https://mohammadahmadjarabah.github.io/nord-mobile-application-website) to check out the live demo!
 
 ## Technologies Used
 * <img src='./Images/readme-badges/html.svg' alt='HTML' valign='middle'>
