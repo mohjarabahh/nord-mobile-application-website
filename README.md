@@ -1,9 +1,5 @@
 <h1 align='center'>Nord Mobile Application Website</h1>
 
-A presentation website for Nord mobile application created with HTML and CSS!
-
-🌱 I turned a PSD web template into a usable and responsive website as a practice on front-end technologies!
-
 ## Design Preview
 ![design-view](./Images/design-view.png)
 
