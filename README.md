@@ -10,8 +10,7 @@ Transformed a PSD web template into a sleek landing page using HTML and CSS. Des
 
 ## Technologies
 * HTML
-* CSS
-* BEM Methodology
+* CSS (with BEM Methodology)
 
 ## Features
 * ⭐ Single page design
