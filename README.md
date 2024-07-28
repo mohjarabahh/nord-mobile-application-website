@@ -1,6 +1,6 @@
 <h1 align='center'>Nord Mobile Application Website</h1>
 
-Transformed a PSD web template into a sleek landing page using HTML and CSS. Designed for mobile app promotion, ensuring responsiveness across devices. Incorporated intuitive navigation and visually appealing layout for user engagement. Completed project with a clean code and efficient design, as well as, optimizing user experience.
+A landing page for a mobile application presentation developed with HTML and CSS, built by converting a PSD web template made by [Graphberry](https://www.graphberry.com/item/nord-free-simple-app-landingage-one-page-template) into a usable and responsive website. It comes in a simple design which making it perfect for presentation website for a mobile application. Incorporated intuitive navigation and visually appealing layout for user engagement. Completed project with a clean code and efficient design, as well as, optimizing user experience.
 
 ## Preview
 ![design-view](./Images/preview.png)
