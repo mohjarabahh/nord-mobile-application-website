@@ -11,6 +11,8 @@ A landing page for a mobile application presentation developed with HTML and CSS
 ## Technologies
 * HTML
 * CSS (with BEM Methodology)
+* [Google Fonts](https://fonts.google.com)
+* [GitHub Pages](https://pages.github.com)
 
 ## Features
 * ⭐ Single page design
