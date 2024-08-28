@@ -27,7 +27,6 @@ A landing page for a mobile application presentation developed with HTML and CSS
 
 ## Credits
 * PSD Template is from [Graphberry](https://www.graphberry.com)
-* Fonts are from [Google Fonts](https://fonts.google.com)
 * Images are from [Unsplash](https://unsplash.com)
 * Mockups are from [Smart Mockups](https://smartmockups.com)
 
